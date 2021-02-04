@@ -22,7 +22,7 @@ This repository contains our continous monitoring infrasturcture (based on Andro
 
 ## Codebase Organization
 
-**The codebase is shown in [CellularReliability](https://github.com/CellularReliability/CellularReliability.github.io).**
+**The codebase can be accessed in [CellularReliability](https://github.com/CellularReliability/CellularReliability.github.io).**
 
 ### Continous Monitoring Infrastructure
 Our modifications mainly involve the telephony component in the framework layer (whose location in AOSP tree is `frameworks/opt/telephony/src/java/com/android/internal/telephony`, denoted later as `TELEPHONY_SRC`).
