@@ -22,9 +22,11 @@ This repository contains our continous monitoring infrasturcture (based on Andro
 
 ## Codebase Organization
 
+<h5><font color=Purple >The codebase is shown in [CellularReliability](https://github.com/CellularReliability/CellularReliability.github.io).</font></h5>
+
 ### Continous Monitoring Infrastructure
 Our modifications mainly involve the telephony component in the framework layer (whose location in AOSP tree is `frameworks/opt/telephony/src/java/com/android/internal/telephony`, denoted later as `TELEPHONY_SRC`).
-Specifically, we modify the `DcTracker.java` and `DefaultPhoneNotifier.java` to instrument concerned failure points (currently we only list those related to the three major cellular failtures--Data_Stall, Data_Setup_Error, and Out_of_Service), open-sourced in [CellularReliability](https://github.com/CellularReliability/CellularReliability.github.io):
+Specifically, we modify the `DcTracker.java` and `DefaultPhoneNotifier.java` to instrument concerned failure points (currently we only list those related to the three major cellular failtures--Data_Stall, Data_Setup_Error, and Out_of_Service), as shown in [Monitor](https://github.com/CellularReliability/CellularReliability.github.io/tree/main/monitor):
 
 | Class | Failure Point | Purpose| Location in AOSP |
 | ---- | ---- | ---- | ---- |
@@ -32,7 +34,7 @@ Specifically, we modify the `DcTracker.java` and `DefaultPhoneNotifier.java` to 
 |   `DcTracker`   |   `onDataSetupComplete`   |   Tracking  Data_Setup_Error events  | `TELEPHONY_SRC/dataconnection/DcTracker.java` |
 |   `DefaultPhoneNotifier`   |   `notifyServiceState`   |   Tracking  Out_of_Service events  | `TELEPHONY_SRC/DefaultPhoneNotifier.java` |
 
-Upon cellular failures, we then notify our dedicated event logging service `CellularStateProcessor` and  `CellularReliability` to log critical cellular and device information:
+Upon cellular failures, we then notify our dedicated event logging service [CellularStateProcessor](https://github.com/CellularReliability/CellularReliability.github.io/blob/main/monitor/CellularStateProcessor.java) and [CellularReliability](https://github.com/CellularReliability/CellularReliability.github.io/blob/main/monitor/CellularReliability.java) to log critical cellular and device information:
 
 | Information | Description |
 | ---- | ---- |
@@ -46,15 +48,15 @@ Upon cellular failures, we then notify our dedicated event logging service `Cell
 | `CAUSE` | Error code of Data_Setup_Error defined in `DataFailCause` |
 | `APN`   | Current access point names |
 
-For event recovery, we provide similar tracing to record recovery events. In particular, for Data_Stall events we probe the network to more accurately monitor event recovery in `DataStallDiagnostics`.
+For event recovery, we provide similar tracing to record recovery events. In particular, for Data_Stall events we probe the network to more accurately monitor event recovery in [DataStallDiagnostics](https://github.com/CellularReliability/CellularReliability.github.io/blob/main/monitor/DataStallDiagnostics.java).
 
 ### Stability-Compatible RAT Transition
-Upon RAT transitions, our control policy would kick in to check whether current system and network states are suitable for transitions. It currently runs as a daemon thread along side the telephony service, as shown in class `RATTransition`.
+Upon RAT transitions, our control policy would kick in to check whether current system and network states are suitable for transitions. It currently runs as a daemon thread along side the telephony service, as shown in [RATTransition](https://github.com/CellularReliability/CellularReliability.github.io/tree/main/rat_trans).
 
 ### TIMP-based Flexible Data_Stall Recovery
 We currently provide our time-inhomogeneous Markov process (TIMP) that formalizes the Data_Stall recovery process and find proper triggers for entering each recovery stage. 
 
-We implement the TIMP model in Python (`timp_model.py`) which can automatically search in the time trigger space so as to find triggers that can minimize the expected recovery time.
+We implement the TIMP model in Python ([timp_model](https://github.com/CellularReliability/CellularReliability.github.io/tree/main/timp)) which can automatically search in the time trigger space so as to find triggers that can minimize the expected recovery time.
 
 NOTE: this code should be run along with provided Data_Stall duration data files.
 
