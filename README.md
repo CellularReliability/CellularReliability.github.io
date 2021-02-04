@@ -51,12 +51,12 @@ Upon cellular failures, we then notify our dedicated event logging service [Cell
 For event recovery, we provide similar tracing to record recovery events. In particular, for Data_Stall events we probe the network to more accurately monitor event recovery in [DataStallDiagnostics](https://github.com/CellularReliability/CellularReliability.github.io/blob/main/monitor/DataStallDiagnostics.java).
 
 ### Stability-Compatible RAT Transition
-Upon RAT transitions, our control policy would kick in to check whether current system and network states are suitable for transitions. It currently runs as a daemon thread along side the telephony service, as shown in [RATTransition](https://github.com/CellularReliability/CellularReliability.github.io/tree/main/rat_trans).
+Upon RAT transitions, our control policy would kick in to check whether current system and network states are suitable for transitions. It currently runs as a daemon thread along side the telephony service, as shown in [RATTransition](https://github.com/CellularReliability/CellularReliability.github.io/blob/main/rat_trans/RATTransition.java).
 
 ### TIMP-based Flexible Data_Stall Recovery
 We currently provide our time-inhomogeneous Markov process (TIMP) that formalizes the Data_Stall recovery process and find proper triggers for entering each recovery stage. 
 
-We implement the TIMP model in Python ([timp_model](https://github.com/CellularReliability/CellularReliability.github.io/tree/main/timp)) which can automatically search in the time trigger space so as to find triggers that can minimize the expected recovery time.
+We implement the TIMP model in Python ([timp_model](https://github.com/CellularReliability/CellularReliability.github.io/blob/main/timp/timp_model.py)) which can automatically search in the time trigger space so as to find triggers that can minimize the expected recovery time.
 
 NOTE: this code should be run along with provided Data_Stall duration data files.
 
