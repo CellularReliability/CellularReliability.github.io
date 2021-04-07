@@ -58,8 +58,6 @@ We currently provide our time-inhomogeneous Markov process (TIMP) that formalize
 
 We implement the TIMP model in Python ([timp_model](https://github.com/CellularReliability/CellularReliability.github.io/blob/main/timp/timp_model.py)) which can automatically search in the time trigger space so as to find triggers that can minimize the expected recovery time.
 
-NOTE: this code should be run along with provided Data_Stall duration data files.
-
 ## Platform Requirements
 ### Android
 For Android-related modifications, currently our code is run and tested in Android 9 and Android 10 (AOSP).
