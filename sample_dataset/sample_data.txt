@@ -1,0 +1,149 @@
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "Unknown", "Network": "46011", "Cause": "OEM_DCFAILCAUSE_4", "Apn": "ctnet", "SignalStrength": "-87,5", "AndroidVersion": "9"}}
+{"e": "data_stall", "ps": {"RAT": "Unknown", "Network": "46011", "ScreenStatus": "On", "Apn": "false", "SignalStrength": "-96,3", "AndroidVersion": "9"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "1", "RecoveryStage": "-1", "Duration": "1824", "ScreenStatus": "On", "AndroidVersion": "9"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "LTE", "Network": "46011", "Cause": "NA", "Apn": "ctnet", "SignalStrength": "-111,3", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "LTE", "Network": "46011", "Cause": "NA", "Apn": "ctnet", "SignalStrength": "-101,5", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "LTE", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-103,4", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "1", "RecoveryStage": "1", "Duration": "11537", "ScreenStatus": "Off", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "GPRS", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-97,3", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "3", "RecoveryStage": "1", "Duration": "69", "ScreenStatus": "Off", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "GPRS", "Network": "46000", "Cause": "IRAT_HANDOVER_FAILED", "Apn": "cmnet", "SignalStrength": "-97,3", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "EDGE", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-93,4", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "1", "RecoveryStage": "-1", "Duration": "4342", "ScreenStatus": "On", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "EDGE", "Network": "46000", "Cause": "IRAT_HANDOVER_FAILED", "Apn": "cmnet", "SignalStrength": "-81,5", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "EDGE", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-91,4", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "3", "RecoveryStage": "2", "Duration": "281743", "ScreenStatus": "Off", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "EDGE", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-101,3", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "1", "RecoveryStage": "1", "Duration": "273556", "ScreenStatus": "Off", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "EDGE", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-91,4", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "1", "RecoveryStage": "1", "Duration": "11138", "ScreenStatus": "Off", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "Unknown", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-86,5", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "1", "RecoveryStage": "-1", "Duration": "2297", "ScreenStatus": "Off", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "Unknown", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-102,5", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "1", "RecoveryStage": "-1", "Duration": "2113", "ScreenStatus": "On", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "LTE", "Network": "46011", "Cause": "NA", "Apn": "ctnet", "SignalStrength": "-101,5", "AndroidVersion": "10"}}
+{"e": "out_of_service", "ps": {"RAT": "Unknown", "Network": "46003", "SignalStrength": "-1,0", "AndroidVersion": "9"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "eHRPD", "Network": "46003", "Cause": "OEM_DCFAILCAUSE_4", "Apn": "ctnet", "SignalStrength": "-94,3", "AndroidVersion": "9"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "LTE", "Network": "46011", "Cause": "NA", "Apn": "ctnet", "SignalStrength": "-94,5", "AndroidVersion": "10"}}
+{"e": "out_of_service", "ps": {"RAT": "Unknown", "Network": "46011", "SignalStrength": "-96,3", "AndroidVersion": "9"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "LTE", "Network": "46001", "Cause": "INVALID_SIM_STATE", "Apn": "3gnet", "SignalStrength": "-69,5", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "LTE", "Network": "46000", "ScreenStatus": "On", "Apn": "false", "SignalStrength": "-89,5", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "3", "RecoveryStage": "1", "Duration": "313228", "ScreenStatus": "On", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "LTE", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-89,5", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "1", "RecoveryStage": "-1", "Duration": "161396", "ScreenStatus": "On", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "GPRS", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-97,3", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "3", "RecoveryStage": "1", "Duration": "69", "ScreenStatus": "Off", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "GPRS", "Network": "46000", "Cause": "IRAT_HANDOVER_FAILED", "Apn": "cmnet", "SignalStrength": "-97,3", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "EDGE", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-93,4", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "1", "RecoveryStage": "-1", "Duration": "4342", "ScreenStatus": "On", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "EDGE", "Network": "46000", "Cause": "IRAT_HANDOVER_FAILED", "Apn": "cmnet", "SignalStrength": "-81,5", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "EDGE", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-91,4", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "3", "RecoveryStage": "2", "Duration": "281743", "ScreenStatus": "Off", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "EDGE", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-101,3", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "1", "RecoveryStage": "1", "Duration": "273556", "ScreenStatus": "Off", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "EDGE", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-91,4", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "1", "RecoveryStage": "1", "Duration": "11138", "ScreenStatus": "Off", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "Unknown", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-86,5", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "1", "RecoveryStage": "-1", "Duration": "2297", "ScreenStatus": "Off", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "Unknown", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-102,5", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "1", "RecoveryStage": "-1", "Duration": "2113", "ScreenStatus": "On", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "EDGE", "Network": "46000", "Cause": "IRAT_HANDOVER_FAILED", "Apn": "cmnet", "SignalStrength": "-101,3", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "LTE", "Network": "46011", "Cause": "NA", "Apn": "ctnet", "SignalStrength": "-97,5", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "LTE", "Network": "46001", "Cause": "NA", "Apn": "3gnet", "SignalStrength": "-84,5", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "LTE", "Network": "46000", "Cause": "NA", "Apn": "cmnet", "SignalStrength": "-81,5", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "HSPA", "Network": "46001", "Cause": "OPERATOR_BARRED", "Apn": "3gwap", "SignalStrength": "-69,5", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "LTE", "Network": "46001", "Cause": "NA", "Apn": "3gnet", "SignalStrength": "-106,4", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "LTE", "Network": "46001", "Cause": "NA", "Apn": "3gnet", "SignalStrength": "-106,4", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "EDGE", "Network": "43211", "Cause": "NO_GPRS_CONTEXT", "Apn": "mcinet", "SignalStrength": "-81,5", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "LTE", "Network": "46001", "ScreenStatus": "On", "Apn": "false", "SignalStrength": "-110,4", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "3", "RecoveryStage": "-1", "Duration": "46", "ScreenStatus": "On", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "LTE", "Network": "46011", "Cause": "NA", "Apn": "ctnet", "SignalStrength": "-81,5", "AndroidVersion": "9"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "1xRTT", "Network": "46003", "Cause": "LOCAL_END", "Apn": "ctnet", "SignalStrength": "-105,1", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "LTE", "Network": "46000", "Cause": "NA", "Apn": "cmnet", "SignalStrength": "-89,5", "AndroidVersion": "10"}}
+{"e": "out_of_service", "ps": {"RAT": "Unknown", "Network": "46009", "SignalStrength": "2147483647,0", "AndroidVersion": "10"}}
+{"e": "out_of_service", "ps": {"RAT": "Unknown", "Network": "46000", "SignalStrength": "-101,3", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "LTE", "Network": "46000", "ScreenStatus": "On", "Apn": "false", "SignalStrength": "-104,4", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "3", "RecoveryStage": "-1", "Duration": "153", "ScreenStatus": "On", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "LTE", "Network": "46000", "ScreenStatus": "On", "Apn": "false", "SignalStrength": "-105,4", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "1", "RecoveryStage": "-1", "Duration": "11077", "ScreenStatus": "On", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "LTE", "Network": "46011", "Cause": "NA", "Apn": "ctnet", "SignalStrength": "-96,5", "AndroidVersion": "10"}}
+{"e": "out_of_service", "ps": {"RAT": "Unknown", "Network": "46011", "SignalStrength": "-1,0", "AndroidVersion": "9"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "1xRTT", "Network": "46003", "Cause": "SIGNAL_LOST", "Apn": "ctnet", "SignalStrength": "-100,2", "AndroidVersion": "9"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "LTE", "Network": "46001", "Cause": "NA", "Apn": "3gnet", "SignalStrength": "-116,2", "AndroidVersion": "9"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "LTE", "Network": "46001", "Cause": "NA", "Apn": "3gnet", "SignalStrength": "-116,2", "AndroidVersion": "9"}}
+{"e": "data_stall", "ps": {"RAT": "Unknown", "Network": "46011", "ScreenStatus": "Off", "Apn": "ctnet", "SignalStrength": "-81,5", "AndroidVersion": "9"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "1", "RecoveryStage": "-1", "Duration": "1148", "ScreenStatus": "Off", "AndroidVersion": "9"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "LTE", "Network": "46000", "Cause": "NA", "Apn": "cmnet", "SignalStrength": "-90,5", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "1xRTT", "Network": "46003", "Cause": "SIGNAL_LOST", "Apn": "ctnet", "SignalStrength": "-117,0", "AndroidVersion": "9"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "1xRTT", "Network": "46003", "Cause": "OEM_DCFAILCAUSE_5", "Apn": "ctnet", "SignalStrength": "-84,5", "AndroidVersion": "9"}}
+{"e": "data_stall", "ps": {"RAT": "GPRS", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-97,3", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "3", "RecoveryStage": "1", "Duration": "69", "ScreenStatus": "Off", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "GPRS", "Network": "46000", "Cause": "IRAT_HANDOVER_FAILED", "Apn": "cmnet", "SignalStrength": "-97,3", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "EDGE", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-93,4", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "1", "RecoveryStage": "-1", "Duration": "4342", "ScreenStatus": "On", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "EDGE", "Network": "46000", "Cause": "IRAT_HANDOVER_FAILED", "Apn": "cmnet", "SignalStrength": "-81,5", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "EDGE", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-91,4", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "3", "RecoveryStage": "2", "Duration": "281743", "ScreenStatus": "Off", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "EDGE", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-101,3", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "1", "RecoveryStage": "1", "Duration": "273556", "ScreenStatus": "Off", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "EDGE", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-91,4", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "1", "RecoveryStage": "1", "Duration": "11138", "ScreenStatus": "Off", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "Unknown", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-86,5", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "1", "RecoveryStage": "-1", "Duration": "2297", "ScreenStatus": "Off", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "Unknown", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-102,5", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "1", "RecoveryStage": "-1", "Duration": "2113", "ScreenStatus": "On", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "LTE", "Network": "46001", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-74,5", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "3", "RecoveryStage": "-1", "Duration": "32", "ScreenStatus": "Off", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "EDGE", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-85,5", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "1", "RecoveryStage": "1", "Duration": "5643", "ScreenStatus": "Off", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "LTE", "Network": "46011", "Cause": "NA", "Apn": "ctnet", "SignalStrength": "-95,5", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "LTE", "Network": "46011", "Cause": "NA", "Apn": "ctnet", "SignalStrength": "-95,5", "AndroidVersion": "10"}}
+{"e": "out_of_service", "ps": {"RAT": "Unknown", "Network": "46000", "SignalStrength": "-103,2", "AndroidVersion": "9"}}
+{"e": "data_stall", "ps": {"RAT": "Unknown", "Network": "46001", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-95,5", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "1", "RecoveryStage": "1", "Duration": "1899", "ScreenStatus": "Off", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "Unknown", "Network": "46001", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-83,5", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "1", "RecoveryStage": "-1", "Duration": "2452", "ScreenStatus": "On", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "LTE", "Network": "46001", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-85,5", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "3", "RecoveryStage": "-1", "Duration": "248", "ScreenStatus": "On", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "Unknown", "Network": "46001", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-90,5", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "1", "RecoveryStage": "1", "Duration": "16929", "ScreenStatus": "Off", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "LTE", "Network": "46001", "Cause": "NA", "Apn": "3gnet", "SignalStrength": "-90,5", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "LTE", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-100,5", "AndroidVersion": "9"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "3", "RecoveryStage": "-1", "Duration": "602", "ScreenStatus": "Off", "AndroidVersion": "9"}}
+{"e": "data_stall", "ps": {"RAT": "GPRS", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-97,3", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "3", "RecoveryStage": "1", "Duration": "69", "ScreenStatus": "Off", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "GPRS", "Network": "46000", "Cause": "IRAT_HANDOVER_FAILED", "Apn": "cmnet", "SignalStrength": "-97,3", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "EDGE", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-93,4", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "1", "RecoveryStage": "-1", "Duration": "4342", "ScreenStatus": "On", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "EDGE", "Network": "46000", "Cause": "IRAT_HANDOVER_FAILED", "Apn": "cmnet", "SignalStrength": "-81,5", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "EDGE", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-91,4", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "3", "RecoveryStage": "2", "Duration": "281743", "ScreenStatus": "Off", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "EDGE", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-101,3", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "1", "RecoveryStage": "1", "Duration": "273556", "ScreenStatus": "Off", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "EDGE", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-91,4", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "1", "RecoveryStage": "1", "Duration": "11138", "ScreenStatus": "Off", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "Unknown", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-86,5", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "1", "RecoveryStage": "-1", "Duration": "2297", "ScreenStatus": "Off", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "Unknown", "Network": "46000", "ScreenStatus": "Off", "Apn": "false", "SignalStrength": "-102,5", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "1", "RecoveryStage": "-1", "Duration": "2113", "ScreenStatus": "On", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "LTE", "Network": "46000", "Cause": "EMM_ACCESS_BARRED", "Apn": "cmnet", "SignalStrength": "-76,5", "AndroidVersion": "9"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "LTE", "Network": "46001", "Cause": "NA", "Apn": "3gnet", "SignalStrength": "-100,5", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "EDGE", "Network": "46001", "Cause": "ERROR_UNSPECIFIED", "Apn": "3gnet", "SignalStrength": "-81,5", "AndroidVersion": "9"}}
+{"e": "data_stall", "ps": {"RAT": "LTE", "Network": "46011", "ScreenStatus": "On", "Apn": "false", "SignalStrength": "-96,5", "AndroidVersion": "10"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "3", "RecoveryStage": "1", "Duration": "145", "ScreenStatus": "On", "AndroidVersion": "10"}}
+{"e": "data_stall", "ps": {"RAT": "LTE", "Network": "46011", "ScreenStatus": "On", "Apn": "false", "SignalStrength": "-98,5", "AndroidVersion": "9"}}
+{"e": "data_stall_duration", "ps": {"RecoveryMethod": "3", "RecoveryStage": "-1", "Duration": "11", "ScreenStatus": "On", "AndroidVersion": "9"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "EDGE", "Network": "43211", "Cause": "NO_GPRS_CONTEXT", "Apn": "mcinet", "SignalStrength": "-81,5", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "LTE", "Network": "46000", "Cause": "NA", "Apn": "cmnet", "SignalStrength": "-75,5", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "LTE", "Network": "46000", "Cause": "NA", "Apn": "cmnet", "SignalStrength": "-75,5", "AndroidVersion": "10"}}
+{"e": "out_of_service", "ps": {"RAT": "LTE", "Network": "46011", "SignalStrength": "2147483647,0", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "LTE", "Network": "46000", "Cause": "NA", "Apn": "cmnet", "SignalStrength": "-96,5", "AndroidVersion": "9"}}
+{"e": "out_of_service", "ps": {"RAT": "GSM", "Network": "46001", "SignalStrength": "-93,4", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "LTE", "Network": "46011", "Cause": "NA", "Apn": "ctnet", "SignalStrength": "-99,5", "AndroidVersion": "10"}}
+{"e": "out_of_service", "ps": {"RAT": "GSM", "Network": "46001", "SignalStrength": "-97,3", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "Unknown", "Network": "46001", "Cause": "OEM_DCFAILCAUSE_4", "Apn": "3gnet", "SignalStrength": "-105,4", "AndroidVersion": "9"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "LTE", "Network": "46011", "Cause": "NA", "Apn": "ctnet", "SignalStrength": "-71,5", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "LTE", "Network": "46011", "Cause": "NA", "Apn": "ctnet", "SignalStrength": "-71,5", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "LTE", "Network": "46001", "Cause": "NA", "Apn": "3gnet", "SignalStrength": "-104,4", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "HSPA", "Network": "46001", "Cause": "NA", "Apn": "3gnet", "SignalStrength": "-107,2", "AndroidVersion": "10"}}
+{"e": "data_setup_error", "ps": {"ApnType": "default", "RAT": "eHRPD", "Network": "46003", "Cause": "PPP_TIMEOUT", "Apn": "ctnet", "SignalStrength": "-51,5", "AndroidVersion": "10"}}
