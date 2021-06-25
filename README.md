@@ -66,6 +66,9 @@ Note that despite quite a number of changes have been made in Android 10 since A
 ### Others
 For other code component such as our TIMP model, they can be run on Linux with proper Python supports.
 
+## Data Release
+We have released a portion of data (with proper anonymization) for references here [https://github.com/CellularReliability/CellularReliability.github.io/tree/main/sample_dataset]. As to the full dataset, we are still in discussion with the authority to what extend can it be released.
+
 ## For Developers
 Our code is licensed under Apache 2.0 in accordance with AOSP's license. Please adhere to the corresponding open source policy when applying modifications and commercial uses.
 Also, some of our code is currently not available but will be relased soon once we have obatained permissions.
